@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm Seela Sri Lakshmi Gayathri
 
-<!--
-**seela-sri-lakshmi-gayathri/seela-sri-lakshmi-gayathri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
+💻 Aspiring Software Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C Programming
+* Java Basics
+* Python Basics
+* Artificial Intelligence & Machine Learning
+* Problem Solving
+* Git & GitHub
+
+### 💻 Technical Skills
+
+* **Languages:** C, Java, Python
+* **AI/ML:** Currently Learning
+* **Tools:** VS Code, GitHub
+* **Other:** MS Word, PowerPoint
+
+### 📌 My Goals
+
+* Improve my programming skills
+* Build practical projects
+* Learn AI and Machine Learning
+* Contribute to GitHub projects
+* Prepare for software development opportunities
+
+### 📂 My Repositories
+
+I will be sharing my:
+
+* C programming practice
+* Java programs
+* Python practice
+* AI learning projects
+* Problem-solving programs
+
+### 📫 Connect With Me
+
+* LinkedIn: [Seela Sri Lakshmi Gayathri](https://www.linkedin.com/in/seela-sri-lakshmi-gayathri-b2780735a)
+
