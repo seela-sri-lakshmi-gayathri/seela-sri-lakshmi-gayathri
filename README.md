@@ -15,7 +15,7 @@
 ### 💻 Technical Skills
 
 * **Languages:** C, Java, Python,
-* **DataBase:**MYSQL,
+* DataBase:MYSQL,
 * **AI/ML:** Currently Learning
 * **Tools:** VS Code, GitHub
 * **Other:** MS Word, PowerPoint
