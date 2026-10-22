@@ -14,7 +14,8 @@
 
 ### 💻 Technical Skills
 
-* **Languages:** C, Java, Python
+* **Languages:** C, Java, Python,
+* **DataBase:**MYSQL,
 * **AI/ML:** Currently Learning
 * **Tools:** VS Code, GitHub
 * **Other:** MS Word, PowerPoint
@@ -30,9 +31,6 @@
 ### 📂 My Repositories
 
 I will be sharing my:
-
-* C programming practice
-* Java programs
 * Python practice
 * AI learning projects
 * Problem-solving programs
